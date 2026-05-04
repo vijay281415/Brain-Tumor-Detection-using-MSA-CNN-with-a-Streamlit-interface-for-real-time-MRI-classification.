@@ -3,6 +3,12 @@ Brain Tumor Detection System using Multi-Scale Attention CNN (MSA-CNN) for accur
 # 🧠 Brain Tumor Detection System (MSA-CNN)
 
 A deep learning-based web application for detecting and classifying brain tumors from MRI images using a **Multi-Scale Attention Convolutional Neural Network (MSA-CNN)**.
+⚠️ Model file is not included due to size limitations.
+
+Download it here:
+https://drive.google.com/file/d/1v3GbpD5kKsxtY8mY84c1QFMHNIAXIx0C/view?usp=sharing
+
+After downloading, place the file in the project folder before running the app.
 
 ---
 
